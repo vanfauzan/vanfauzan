@@ -6,12 +6,14 @@ Saya seorang penggemar data yang bersemangat dengan latar belakang Teknologi Inf
 - :trophy: Saya telah lulus <a href="https://www.coursera.org/account/accomplishments/professional-cert/WYNAP97JEWVQ" target="_blank">Google Data Analytics Professional Certificate</a>.
 - :trophy: Saya telah lulus <a href="https://certificates.revou.co/irvan-syarif-certificate-completion-damc22.pdf" target="_blank">Intro to Data Analytics</a>.
 - :trophy: Saya telah lulus <a href="https://usmacid-my.sharepoint.com/:b:/g/personal/g211180059_student_usm_ac_id/EXdqQTQhIqRCvLTyk6OYCBEBopWFqpXxC5zaNPQ4UKdlWg?e=lfCize" target="_blank">Microsoft Office Specialist - Office Word 2013</a>.
+- :gear: Saya sedang mengikuti <a href="https://www.rakamin.com/about-project-based-internship" target="_blank">Virtual Internship Experience - Health System Analyst - KlinikGo</a>.
 - :book: Saat ini saya sedang belajar dan mengembangkan kemampuan Analitik Data lebih lanjut.
 
 ## ⚙ Latest Projects
 | **Project**                         | **Tools** | **Programming Languange** |
 |-------------------------------------|-----------|---------------------------|
 | <a href="https://vanfauzan.github.io/DataAnalytics/" target="_blank">Bellabeat - Fitbit Fitness Tracker Data</a>            | R Markdown      | R |
+| <a href="https://vanfauzan.github.io/DataAnalytics/" target="_blank">Proses Pendaftaran Pasien Web KlinikGo</a>            | Draw.io      | app.diagrams.net |
 
 ## 🔍 You Can Find Me at
 <p>
