@@ -13,7 +13,7 @@ Saya seorang penggemar data yang bersemangat dengan latar belakang Teknologi Inf
 | **Project**                         | **Tools** | **Programming Languange** |
 |-------------------------------------|-----------|---------------------------|
 | <a href="https://vanfauzan.github.io/DataAnalytics/" target="_blank">Bellabeat - Fitbit Fitness Tracker Data</a>            | R Markdown      | R |
-| <a href="https://vanfauzan.github.io/DataAnalytics/" target="_blank">Proses Pendaftaran Pasien Web KlinikGo</a>            | Draw.io      | app.diagrams.net |
+| <a href="https://github.com/vanfauzan/HSA-KlinikGo/" target="_blank">Proses Pendaftaran Pasien Web KlinikGo</a>            | Draw.io      | app.diagrams.net |
 
 ## 🔍 You Can Find Me at
 <p>
